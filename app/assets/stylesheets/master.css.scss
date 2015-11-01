@@ -1,19 +1,22 @@
 
 .center{
-	margin-top: 50px;
-    margin-left: 600px;
+  position: fixed;
+  top: 25%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
 }
 h1  {
 	color:blue;
 	text-align:center;
 }
 p {
-	margin-left: 750px;
+	
 	font-weight:bold;
 
 }
 ol {
-	margin-left: 750px;
+	
 
 }
 #infinity {
