@@ -54,4 +54,6 @@ Firehosequiz1::Application.routes.draw do
   #     resources :products
   #   end
   root 'tests#index'
+  #resources :tests
+  resources :names
 end

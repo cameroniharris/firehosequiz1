@@ -29,6 +29,10 @@ gem 'jbuilder', '~> 1.2'
 
 
 gem 'rails_12factor'
+
+gem 'simple_form'
+
+gem 'bootstrap-sass', '~> 3.3.4'
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
